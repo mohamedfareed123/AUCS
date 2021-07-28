@@ -11,3 +11,7 @@ program coding
 </Body>
 
 </HTML>
+git command
+git init
+git commit
+git add
