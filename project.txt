@@ -1,17 +1,7 @@
-program coding
 <HTML>
-
-<Title> AUCS </Title>
-
-<Head> Computer Hardware System </Head>
-
+<Head>
+</Head>
 <Body>
-<p> Processor, Motherboard, RAM, Hard disk </p>
-
+<h1> Ok, go ahead git learning, coming week we plan demo </h1>
 </Body>
-
 </HTML>
-git command
-git init
-git commit
-git add
