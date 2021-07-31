@@ -6,8 +6,6 @@
 </Body>
 </HTML>
 
-git command continue
-git add filename
-git remote add origin url
-git push -u origin master
+
+ok, thank you
 
