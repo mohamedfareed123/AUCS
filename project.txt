@@ -9,3 +9,9 @@
 
 ok, thank you
 
+git learning today
+git --version
+git init
+git add program.txt
+
+
